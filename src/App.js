@@ -10,6 +10,7 @@ function App() {
       <div>
         <Routes>
           <Route path='/' element={<Home />} ></Route>
+          <Route path='/adamnb.github.io' element={<Home />} ></Route>
         </Routes>
       </div>
   );
