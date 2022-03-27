@@ -8,7 +8,9 @@ import Home from './Home/Home';
 function App() {
   return (
       <div>
+          <p>Bigger penis</p>
         <Routes>
+
           <Route path='/' element={<Home />} ></Route>
           <Route path='/adamnb.github.io' element={<Home />} ></Route>
         </Routes>
