@@ -3,7 +3,10 @@ import "./Home.css";
 
 const Home = (props) => {
      return (
-      <p>penis</p>
+         <>
+              <h1>ADAM BROWN</h1>
+              <h2>THIS WEBSITE IS UNDER CONSTRUCTION</h2>
+         </>
      )
 };
 
