@@ -9,7 +9,6 @@ function App() {
   return (
       <div>
         <Routes>
-
           <Route path='/' element={<Home />} ></Route>
           <Route path='adamnb-website/' element={<Home />} ></Route>
         </Routes>
