@@ -1,0 +1,14 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-items {
+    list-style: none;
+    display: flex;
+}
+
+.nav-items > a {
+    padding: 10px;
+}
